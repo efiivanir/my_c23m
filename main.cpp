@@ -1,16 +1,11 @@
-/*
-. Project description
-        . Topic #1
-        . Topic #2
-*/
 
 #include <fmt/format.h>
-import utilities;
+
+import utilities; // Import the utilities module
 
 int main(){
-    fmt::print("Hello, World!\n");
-    fmt::print("One\n");
-    fmt::print("Two\n");
-    fmt::print("Three\n");
+
+    do_work(); // snake_case
+
     return 0;
 }
