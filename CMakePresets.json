@@ -13,7 +13,8 @@
       },
       "cacheVariables": {
         "CMAKE_EXPORT_COMPILE_COMMANDS": "ON",
-        "CMAKE_COLOR_DIAGNOSTICS": "ON"
+        "CMAKE_COLOR_DIAGNOSTICS": "ON",
+        "CMAKE_VERBOSE_MAKEFILE": "ON"
       }
     },
     {
