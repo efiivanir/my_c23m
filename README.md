@@ -1,2 +1,2 @@
 # my_c23m
-My progress of c23m
+My progress of c23m Course
